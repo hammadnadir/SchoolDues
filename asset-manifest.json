@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SchoolDues/static/css/main.fc4a7daf.css",
+    "main.js": "/SchoolDues/static/js/main.f9cbf14b.js",
+    "static/js/787.7efd31bd.chunk.js": "/SchoolDues/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/SchoolDues/index.html",
+    "main.fc4a7daf.css.map": "/SchoolDues/static/css/main.fc4a7daf.css.map",
+    "main.f9cbf14b.js.map": "/SchoolDues/static/js/main.f9cbf14b.js.map",
+    "787.7efd31bd.chunk.js.map": "/SchoolDues/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4a7daf.css",
+    "static/js/main.f9cbf14b.js"
+  ]
+}
